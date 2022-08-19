@@ -14,7 +14,7 @@ function App() {
         </h1>
         <div className="max-w-md mx-auto mt-10 space-y-5">
           <HooksCounter />
-          <DynamicHooksCounter />7
+          <DynamicHooksCounter />
           <VariableCounter />
           <VariableCounter dynamic />
         </div>
