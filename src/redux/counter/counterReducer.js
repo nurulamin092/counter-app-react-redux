@@ -2,7 +2,7 @@
 import { DECREMENT, INCREMENT } from "./actionType";
 
 export const initialState = {
-    value: 0
+    value: 20
 }
 
 const counterReduce = (state = initialState, action) => {
